@@ -1,3 +1,3 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+Example code for streaming data from twitter to sqlite database and visualizing word clouds in a web app.
 
-Example code for streaming data from twitter to sqlite and visualizing word clouds
+
